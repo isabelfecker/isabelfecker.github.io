@@ -34,8 +34,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6352914359117285,
-          "pitch": -0.24330563899439994,
+          "yaw": 0.5765733308254539,
+          "pitch": 0.35522869658839085,
           "title": "TheNewLearning",
           "text": "<p class=\"western\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-size: 13px; line-height: 13px; font-family: Helvetica, Arial, sans-serif; margin-right: -1.79cm; margin-bottom: 0cm;\"><font face=\"Arial, sans-serif\" style=\"font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\"><font style=\"font-size: 9pt;\">Büffeln, stillsitzen und schwere Bücher mit sich schleppen. Unsere Generation ist zwar schon längst im digitalen Zeitalter angekommen, nur blieben die Lernmethoden in den Schulen bis heute noch größtenteils im Buchdruckzeithalter stecken. In der Schule der Zukunft sollen neue Maßstäbe gesetzt werden und Möglichkeiten geben</font></font><font face=\"Arial, sans-serif\" style=\"font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\"><font style=\"font-size: 9pt;\">, um das Lernen attraktiver und individueller zu gestalten.</font></font></p><div><font face=\"Arial, sans-serif\" style=\"font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\"><font style=\"font-size: 9pt;\"><br></font></font></div>"
         }
@@ -184,11 +184,11 @@ var APP_DATA = {
           "yaw": 0.023216042738747333,
           "pitch": 0.34280421293277463,
           "title": "Cave",
-          "text": "Einzelarbeitsplätze ermöglichen es den Schülern&nbsp;"
+          "text": ""
         },
         {
-          "yaw": -2.9153546202187535,
-          "pitch": -0.039951744361395924,
+          "yaw": -2.806081394482094,
+          "pitch": 0.012791208784314279,
           "title": "Campfire",
           "text": "Text"
         }
