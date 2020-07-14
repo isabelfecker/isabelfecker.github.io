@@ -93,10 +93,10 @@ var APP_DATA = {
           "text": "Text"
         },
         {
-          "yaw": -0.22638511584527343,
-          "pitch": 0.4917916037640566,
+          "yaw": -0.19141041694233962,
+          "pitch": 0.4435199244888839,
           "title": "Mountain Top",
-          "text": "Auf einer hinter der Fassade liegenden Ebene ist es möglich große zweidimensionale Projektionen abzubilden. Wird der ''button'' an dieser angedockt,so können die darauf gespeicherten Informationen wiedergegeben werden und damit interagiert werden."
+          "text": ""
         },
         {
           "yaw": 1.0795576532806734,
@@ -143,7 +143,7 @@ var APP_DATA = {
           "yaw": 0.023216042738747333,
           "pitch": 0.34280421293277463,
           "title": "Cave",
-          "text": "Text"
+          "text": "Einzelarbeitsplätze ermöglichen es den Schülern&nbsp;"
         },
         {
           "yaw": -2.9153546202187535,
@@ -188,7 +188,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "TheNewLearning",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
