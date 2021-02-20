@@ -1,7 +1,41 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-01",
+      "id": "0-00",
+      "name": "00",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.028717874537591115,
+          "pitch": 0.542473232645662,
+          "rotation": 6.283185307179586,
+          "target": "1-01"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-01",
       "name": "01",
       "levels": [
         {
@@ -26,16 +60,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.23080954509213392,
-          "pitch": 0.2825399635644832,
-          "rotation": 12.566370614359176,
-          "target": "1-02"
+          "yaw": 0.21770205382098773,
+          "pitch": 0.2781840771758599,
+          "rotation": 0,
+          "target": "2-02"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-02",
+      "id": "2-02",
       "name": "02",
       "levels": [
         {
@@ -60,16 +94,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.9600892533126295,
-          "pitch": 0.11630533081012828,
-          "rotation": 12.566370614359176,
-          "target": "2-03"
+          "yaw": 0.9623462422129041,
+          "pitch": 0.11512481640114203,
+          "rotation": 6.283185307179586,
+          "target": "3-03"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-03",
+      "id": "3-03",
       "name": "03",
       "levels": [
         {
@@ -94,16 +128,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.3155231186571559,
-          "pitch": 0.18978534538926795,
-          "rotation": 18.84955592153877,
-          "target": "3-04"
+          "yaw": 0.29323189692656904,
+          "pitch": 0.2399684303903591,
+          "rotation": 0,
+          "target": "4-04"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-04",
+      "id": "4-04",
       "name": "04",
       "levels": [
         {
@@ -128,16 +162,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.19297910177135869,
-          "pitch": 0.04138373074474089,
-          "rotation": 19.63495408493622,
-          "target": "4-05"
+          "yaw": -0.1802416986133739,
+          "pitch": 0.053107053801696225,
+          "rotation": 13.351768777756625,
+          "target": "5-05"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-05",
+      "id": "5-05",
       "name": "05",
       "levels": [
         {
@@ -162,16 +196,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.44565521160586385,
-          "pitch": -0.4769665781974375,
-          "rotation": 7.0685834705770345,
-          "target": "5-06"
+          "yaw": -0.4769764669064678,
+          "pitch": -0.6458026562735721,
+          "rotation": 8.63937979737193,
+          "target": "6-06"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-06",
+      "id": "6-06",
       "name": "06",
       "levels": [
         {
@@ -196,16 +230,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2566378008537793,
-          "pitch": 0.27160194739322385,
+          "yaw": -1.2621814065740793,
+          "pitch": 0.2928886707343832,
           "rotation": 0,
-          "target": "6-07"
+          "target": "7-07"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "6-07",
+      "id": "7-07",
       "name": "07",
       "levels": [
         {
@@ -230,16 +264,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.3231808625759687,
-          "pitch": 0.24791457894973234,
-          "rotation": 12.566370614359176,
-          "target": "7-08"
+          "yaw": 0.30400792039745994,
+          "pitch": 0.15731424511062642,
+          "rotation": 0,
+          "target": "8-08"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "7-08",
+      "id": "8-08",
       "name": "08",
       "levels": [
         {
@@ -264,19 +298,25 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8507879045371691,
-          "pitch": 0.7993627354899591,
+          "yaw": 0.7890184667417905,
+          "pitch": 0.7963844808801834,
           "rotation": 18.06415775814132,
-          "target": "0-01"
+          "target": "1-01"
+        },
+        {
+          "yaw": -0.2624553994946446,
+          "pitch": 0.06942481623639551,
+          "rotation": 0,
+          "target": "0-00"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Gartenhaus",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": true
   }
