@@ -26,18 +26,18 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.034595947638868196,
-          "pitch": 0.5264443505454839,
+          "yaw": -0.030030970719478134,
+          "pitch": 0.5354396774739563,
           "rotation": 0,
           "target": "1-01"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.18622977539149765,
-          "pitch": -0.23125550807396067,
+          "yaw": 0.11524734033310757,
+          "pitch": -0.27822025696677954,
           "title": "Gartenhaus in Stuttgart",
-          "text": "<p align=\"left\" style=\"margin-bottom: 0cm; border: none; padding: 0cm; line-height: 150%\"><span style=\"display: inline-block; border: none; padding: 0cm\"><font style=\"font-size: 11pt\"><span style=\"color: rgb(38, 38, 44); font-family: Calibri, sans-serif; font-size: 14.6667px;\">Auf der </span><font face=\"Calibri, sans-serif\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">Fläche\ndes Züblin‐Areals</span></font></span><span lang=\"de-DE\">&nbsp;</span></font></font></span><span style=\"color: rgb(38, 38, 44); font-family: Calibri, sans-serif; font-size: 14.6667px;\">soll für das</span><span lang=\"de-DE\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit;\">&nbsp;</span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">Leonhardsviertel\nund Bohnenviertel eine neue Quartier</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">smitte\nentstehen. </span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">Die</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">\n``Neue Mitte`` </span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">ist</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">\n</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">ein\n</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">Begegnungspunkt\nfür Mensch und Natur</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">.\n</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">Es\nentstehen neue Wohnungen, wie auch Gewerbe- und soziale Flächen. Das\nGartenhaus soll für einen Ort </span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">in\nmitten der Innenstadt</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">\nstehen, an dem es möglich ist, selber zum Gärtner zu werden und der\nsich positiv auf das Stadtklima auswirkt. Hier soll gelebt,\ngegärtnert, </span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">gearbeitet,</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">\n</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">begegnet</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">\nund sich ausgetauscht werden. </span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">Alle\nsozialen Gruppen, wie auch die Tiere sollen von der ``neuen Mitte``\ndurch ein vielfältiges Nutzungs- und Pflanzenangebot profitieren.\nAuch d</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">urch\ndie</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">\nVerwendung von nachhaltigen Materialien und d</span></font></span><span style=\"font-family: Calibri, sans-serif; font-size: 11pt; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; font-variant-numeric: normal; font-variant-east-asian: normal;\"><font color=\"#26262c\"><span lang=\"de-DE\">er\nEinsatz von erneuerbaren Energieressourcen entsteht ein\nverantwortungsbewusster Umgang mit der Umwelt. soll für das</span></font></span></p>"
+          "text": "Auf der Fläche des Züblin‐Areals soll für das Leonhardsviertel und Bohnenviertel eine neue Quartiersmitte entstehen. Die ``Neue Mitte`` ist ein Begegnungspunkt für Mensch und Natur. Es entstehen neue Wohnungen, wie auch Gewerbe- und soziale Flächen. Das Gartenhaus soll für einen Ort in mitten der Innenstadt stehen, an dem es möglich ist, selber zum Gärtner zu werden und der sich positiv auf das Stadtklima auswirkt. Hier soll gelebt, gegärtnert, gearbeitet, begegnet und sich ausgetauscht werden. Alle sozialen Gruppen, wie auch die Tiere sollen von der ``neuen Mitte`` durch ein vielfältiges Nutzungs- und Pflanzenangebot profitieren. Auch durch die Verwendung von nachhaltigen Materialien und der Einsatz von erneuerbaren Energieressourcen entsteht ein verantwortungsbewusster Umgang mit der Umwelt."
         }
       ]
     },
@@ -124,6 +124,12 @@ var APP_DATA = {
           "pitch": 0.055174716675670865,
           "rotation": 0,
           "target": "3-03"
+        },
+        {
+          "yaw": -2.348603968425863,
+          "pitch": 0.1552797621927695,
+          "rotation": 5.497787143782138,
+          "target": "1-01"
         }
       ],
       "infoHotspots": [
@@ -161,10 +167,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.3063848822694357,
-          "pitch": 0.16860733357608737,
+          "yaw": 0.3271053083614621,
+          "pitch": 0.23130029964663557,
           "rotation": 0,
           "target": "4-04"
+        },
+        {
+          "yaw": -2.8155323588813452,
+          "pitch": 0.09943953604408584,
+          "rotation": 21.205750411731117,
+          "target": "2-02"
         }
       ],
       "infoHotspots": [
@@ -199,8 +211,8 @@ var APP_DATA = {
           "text": "Durch Einschnitte werden die breiten Laubengänge zusätzlich mit Licht versorgt."
         },
         {
-          "yaw": -0.0131845467991063,
-          "pitch": -0.10154288251916732,
+          "yaw": -0.030940081024418475,
+          "pitch": -0.24132531285187397,
           "title": "Begegnungszonen",
           "text": "Durch Begegnungszonen, die zum Innenhof gerichhtet sind, werden die Laubengänge von den Bewohnern belebt."
         }
@@ -283,12 +295,18 @@ var APP_DATA = {
           "pitch": -0.8624780863051384,
           "rotation": 3.141592653589793,
           "target": "6-06"
+        },
+        {
+          "yaw": -2.9643866274227886,
+          "pitch": 0.29146479133654424,
+          "rotation": 5.497787143782138,
+          "target": "4-04"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.2726233438513148,
-          "pitch": 0.10593800756356586,
+          "yaw": 0.24744375378341843,
+          "pitch": 0.10888301914244636,
           "title": "Heimat für Kleintiere und Insekten",
           "text": "Der Geländehöhenunterschied wurde genutzt als Rückzugsort für kleinere Tierarten und Insekten. innerhalt der Steinmauer können diese sich verkriechen."
         },
@@ -338,8 +356,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2298303153182708,
-          "pitch": 0.2872118899622613,
+          "yaw": -1.2477377722716199,
+          "pitch": 0.2750551874504037,
           "rotation": 0,
           "target": "7-07"
         }
@@ -389,6 +407,12 @@ var APP_DATA = {
           "pitch": 0.1650315114709393,
           "rotation": 0,
           "target": "8-08"
+        },
+        {
+          "yaw": -2.8315356418622084,
+          "pitch": 0.05979727632845666,
+          "rotation": 10.995574287564278,
+          "target": "6-06"
         }
       ],
       "infoHotspots": [
