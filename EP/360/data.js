@@ -137,7 +137,7 @@ var APP_DATA = {
           "yaw": 0.06616081979398203,
           "pitch": 0.1793484074122773,
           "title": "<p align=\"left\" style=\"margin-bottom: 0cm; text-transform: uppercase; letter-spacing: 0.2pt; font-style: normal; font-weight: normal; line-height: 0.71cm;\">\n<font color=\"#ffffff\"><font face=\"Arial, sans-serif\"><font style=\"font-size: 9pt\">'Die 'Neue\nMitte'' Im Innenhof</font></font></font></p>",
-          "text": "<p align=\"justify\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.35cm;\">\n<font color=\"#ffffff\"><font face=\"Maison Neue, serif\"><font style=\"font-size: 8pt\"><font face=\"Arial, sans-serif\"><font style=\"font-size: 9pt\"><span style=\"background: transparent\">Die\nneue Quartiersmitte entsteht im Innenhof. </span></font></font>Hier\nwird sich begegnet und ausgetauscht. Dieser wird von den umgebenen\nGewerbe- und Gastronomieflächen eingekreist und erhöht die Qualität\ndes Viertels.&nbsp;</font></font></font>\n</p>"
+          "text": "<p align=\"justify\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.35cm;\">\n<font color=\"#ffffff\"><font face=\"Arial, sans-serif\"><font style=\"font-size: 9pt\"><span style=\"background: transparent\">Die\nneue Quartiersmitte entsteht im Innenhof. </span>Hier wird sich\nbegegnet und ausgetauscht. Dieser wird von den umgebenen Gewerbe- und\nGastronomieflächen eingekreist und erhöht die Qualität des\nViertels.&nbsp;</font></font></font>\n</p>"
         }
       ]
     },
